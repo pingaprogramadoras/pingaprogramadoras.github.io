@@ -3,6 +3,7 @@ title: "¿Por qué necesitamos diversidad en nuestros equipos?"
 author: María Arias de Reyna
 date: 2018-05-07T21:00:03+00:00
 featured_image: "/uploads/2018/05/DDzwgQeVYAA_3qZ.jpg"
+type: posts
 tags: ["diversidad", "empoderamiento"]
 ---
 
