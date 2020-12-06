@@ -1,0 +1,43 @@
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!40101 SET NAMES utf8mb4 */;
+/*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;
+/*!40103 SET TIME_ZONE='+00:00' */;
+/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;
+/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;
+/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
+/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
+DROP TABLE IF EXISTS `cerber_acl`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `cerber_acl` (
+  `ip` varchar(81) CHARACTER SET ascii NOT NULL,
+  `ip_long_begin` bigint(20) unsigned NOT NULL DEFAULT 0 COMMENT 'IPv4 range begin',
+  `ip_long_end` bigint(20) unsigned NOT NULL DEFAULT 0 COMMENT 'IPv4 range end',
+  `tag` char(1) NOT NULL COMMENT 'Type: B or W',
+  `comments` varchar(250) NOT NULL,
+  `acl_slice` smallint(5) unsigned NOT NULL DEFAULT 0,
+  `ver6` smallint(5) unsigned NOT NULL DEFAULT 0,
+  `v6range` varchar(255) CHARACTER SET ascii NOT NULL DEFAULT '',
+  `req_uri` varchar(255) CHARACTER SET ascii NOT NULL DEFAULT '',
+  KEY `main_for_selects` (`acl_slice`,`ver6`,`ip_long_begin`,`ip_long_end`,`tag`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='Cerber IP Access Lists';
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+LOCK TABLES `cerber_acl` WRITE;
+/*!40000 ALTER TABLE `cerber_acl` DISABLE KEYS */;
+INSERT INTO `cerber_acl` VALUES ('85.136.113.*',1435005184,1435005439,'W','My subnet',0,0,'','');
+/*!40000 ALTER TABLE `cerber_acl` ENABLE KEYS */;
+UNLOCK TABLES;
+/*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
+
+/*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
+/*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;
+/*!40014 SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS */;
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
+/*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
+
