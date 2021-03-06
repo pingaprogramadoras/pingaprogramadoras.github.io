@@ -1,7 +1,7 @@
 ---
 title: Chat
 author: María Arias de Reyna
-date: 2021-03-06T13:07:45+00:00
+date: 2021-03-06T11:07:45+00:00
 menu: none
 ---
 
@@ -53,7 +53,7 @@ Todas las salas están cifradas. Esto significa que el historial de las salas s�
 
 ### Uso de Matrix
 
-Por seguridad, cada vez que abras una nueva sesión deberás validar dicha sesión usando alguno de las sesiones ya abiertas. Esta validación hará también de forma transparente el envío de claves de cifrado para los chats privados con otros usuarios. 
+Por seguridad, cada vez que abras una nueva sesión deberás validar dicha sesión usando alguna de las sesiones ya abiertas. Esta validación hará también de forma transparente el envío de claves de cifrado para los chats privados con otros usuarios. 
 
 ### Clientes
 
