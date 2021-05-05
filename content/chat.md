@@ -49,7 +49,7 @@ Cada petición es revisada manualmente para comprobar que cumple los requisitos.
 
 Una vez tengas la invitación a la comunidad, puedes entrar en [https://matrix.to/#/+pingaprogramadoras:matrix.org][1] para ver el listado de salas disponibles. Puedes unirte a cualquiera de estas salas en cualquier momento.
 
-Todas las salas están cifradas. Esto significa que el historial de las salas sólo estará disponible desde el momento en el que entras. Verás un mensaje parecido a *Unable to decrypt: The sender's device has not sent us the keys for this message.* que indica que esos mensajes son anteriores a tu entrada en el chat. Sí, el error podría ser más descriptivo.
+Todas las salas están cifradas. Esto significa que sólo podrás leer los mensajes enviados a partir el momento en el que entras. Verás un mensaje parecido a *Unable to decrypt: The sender's device has not sent us the keys for this message.* que indica que esos mensajes son anteriores a tu entrada en el chat. Sí, el error podría ser más descriptivo.
 
 ### Uso de Matrix
 
