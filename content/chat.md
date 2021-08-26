@@ -15,7 +15,7 @@ Si necesitas crear un usuario tienes que entrar en [este enlace][2]. Para ello r
 
 ![](/images/privacy.png)
 
-Si aceptas las condiciones, llegaréis al segundo paso, donde tienes que escoger qué aplicación quieres usar para conectarte al chat. Cualquiera de las aplicaciones listadas es compatible. 
+Si aceptas las condiciones, llegas al segundo paso, donde tienes que escoger qué aplicación quieres usar para conectarte al chat. Cualquiera de las aplicaciones listadas es compatible. 
 
 ![](/images/chooseApp.png)
 
@@ -54,6 +54,8 @@ Todas las salas están cifradas y protegen el historial de mensajes. Esto signif
 ### Uso de Matrix
 
 Por seguridad, cada vez que abras una nueva sesión deberás validar dicha sesión usando alguna de las sesiones ya abiertas. Esta validación hará también de forma transparente el envío de claves de cifrado para los chats privados con otros usuarios. 
+
+Si no tienes ninguna sesión previamente abierta, se crearán nuevas claves y seguirás teniendo acceso a todo excepto al historial anterior a ese momento. Esto es para evitar que si a alguien le roban la contraseña, el intruso tenga acceso al historial protegido.
 
 ### Clientes
 
