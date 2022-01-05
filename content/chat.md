@@ -49,17 +49,19 @@ Cada petición es revisada manualmente para comprobar que cumple los requisitos.
 
 Una vez tengas la invitación a la comunidad, puedes entrar en [https://matrix.to/#/+pingaprogramadoras:matrix.org][1] para ver el listado de salas disponibles. Puedes unirte a cualquiera de estas salas en cualquier momento.
 
-Todas las salas están cifradas y protegen el historial de mensajes. Esto significa que sólo podrás leer los mensajes enviados a partir el momento en el que entras. Verás un mensaje parecido a *Unable to decrypt: The sender's device has not sent us the keys for this message.* que indica que esos mensajes son anteriores a tu entrada en el chat. Sí, el error podría ser más descriptivo, pero lo que indica es que no has recibido las claves para decodificar esos mensajes.
+La mayoría de las salas están cifradas y protegen el historial de mensajes. Esto significa que sólo podrás leer los mensajes enviados a partir el momento en el que entras. Verás un mensaje de error, normalmente con un texto como "*Unable to decrypt:...*" que indica que esos mensajes son anteriores a tu entrada en el chat e indica que no has recibido las claves para decodificar esos mensajes.
+
+Todos los mensajes enviados a partir de ese momento sí serán visibles para ti.
 
 ### Uso de Matrix
 
-Por seguridad, cada vez que abras una nueva sesión deberás validar dicha sesión usando alguna de las sesiones ya abiertas. Esta validación hará también de forma transparente el envío de claves de cifrado para los chats privados con otros usuarios. 
+Por seguridad, cada vez que abras una nueva sesión deberás validar dicha sesión usando alguna de las sesiones ya abiertas. Esta validación intercambiará de forma transparente el envío de claves de cifrado que te permite acceder al historial de las salas. 
 
-Si no tienes ninguna sesión previamente abierta, se crearán nuevas claves y seguirás teniendo acceso a todo excepto al historial anterior a ese momento. Esto es para evitar que si a alguien le roban la contraseña, el intruso tenga acceso al historial protegido.
+Si no tienes ninguna sesión previamente abierta, se crearán nuevas claves y seguirás teniendo acceso a todo excepto al historial anterior a ese momento. Esto es para evitar que si a alguien le roban la contraseña, el intruso no tenga acceso al historial.
 
 ### Clientes
 
-Puedes tener tantas sesiones abiertas como quieras en la variedad de clientes que quieras. Cualquier cliente compatible con Matrix es usable con nuestra comunidad de chats. 
+Puedes tener tantas sesiones abiertas como quieras en la variedad de clientes que quieras. Cualquier cliente compatible con Matrix es usable con nuestra comunidad. 
 
 El cliente recomendado es [Element][4] tanto de escritorio como de móvil, ya que es el cliente más sincronizado con el desarrollo del servidor. Puedes encontrar más información sobre como usarlo en [su ayuda][5].
 
