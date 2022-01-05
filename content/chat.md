@@ -57,6 +57,12 @@ Todos los mensajes enviados a partir de ese momento sí serán visibles para ti.
 
 Por seguridad, cada vez que abras una nueva sesión deberás validar dicha sesión usando alguna de las sesiones ya abiertas. Esta validación intercambiará de forma transparente el envío de claves de cifrado que te permite acceder al historial de las salas. 
 
+![](/images/verificar1.png)
+Esto es lo que aparece al iniciar una nueva sesión.
+
+![](/images/verificar2.png)
+Esto te debería aparecer en el resto de sesiones abiertas, para verificar la nueva sesión.
+
 Si no tienes ninguna sesión previamente abierta, se crearán nuevas claves y seguirás teniendo acceso a todo excepto al historial anterior a ese momento. Esto es para evitar que si a alguien le roban la contraseña, el intruso no tenga acceso al historial.
 
 ### Clientes
