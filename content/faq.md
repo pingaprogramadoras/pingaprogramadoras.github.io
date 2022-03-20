@@ -1,5 +1,5 @@
 ---
-title: 'FAQ: Preguntas Frecuentes sobre Diversidad'
+title: 'FAQ'
 author: María Arias de Reyna
 date: 2018-10-03T19:00:18+00:00
 featured_image: /uploads/2018/05/photo5800689883046587506.jpg
