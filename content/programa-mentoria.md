@@ -126,6 +126,9 @@ Los siguientes recursos externos pueden servir para ayudar a entender cómo esta
  
 Si quieres participar como **mentora**, rellena el siguiente formulario:
 
+https://forms.gle/wxLaMWizxH7YAXPN9
+
 Si quieres participar como **neófita**, rellena el siguiente formulario:
 
+https://forms.gle/4ZyDZc1Ky3a9ubiq6
 Los datos que se compartan en este formulario se utilizarán únicamente para la gestión del programa y se borrarán al finalizar el mismo (a los 5 meses de comenzar).
