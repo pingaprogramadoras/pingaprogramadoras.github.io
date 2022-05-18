@@ -39,7 +39,7 @@ Es responsabilidad de la neófita organizar las reuniones con ambas personas y p
 
 ### ¿Quién puede formar parte de esta red?
 
-Pueden ser **mentoras** todas las personas que lleven al menos tres años en la industria tecnológica.
+Pueden ser **mentoras** todas las personas que lleven al menos tres años trabajando en la industria tecnológica.
 
 Pueden ser **neófitas** todas las personas que estén empezando en nuestra industria tecnológica (estudiantes, becarias, juniors,...) o sientan que necesitan ayuda para fortalecer su situación laboral. 
 
@@ -82,14 +82,16 @@ La mejor forma de empezar esta reunión es con una presentación de quién eres 
 
 ##### Ejemplos de Objetivos
 
+Puede que estos no sean tus objetivos, sólo son un ejemplo. Aclara y debate con tu mentora qué objetivos os vienen mejor:
+
  * Cómo enfocar la carrera laboral 
  * Preparación del currículum y entrevistas de trabajo
  * Conocer cómo funciona la industria por dentro
- * Gestión y resolución de problemas 
+ * Gestión y resolución de problemas con otros compañeros
  * Recibir ayuda y comentarios sobre una situación en el trabajo
  * Entender qué hace falta para especializarte en un área y compartir recursos
  * Aprender cómo encontrar recursos por ti misma
- * Ampliar conocimiento sobre otras áreas
+ * Ampliar conocimiento sobre otras áreas tecnológicas
  * Practicar soft-skills
  * Entender la mejor forma de afrontar un cambio de trabajo
  * Aprender cuándo y cómo pedir aumentos de sueldo
@@ -110,6 +112,8 @@ Las reuniones pueden ser tanto en persona como virtuales, según las necesidades
 No todas las relaciones laborales serán relaciones de amistad, entendidas como amigos con los que compartes tus intimidades. Muchos en la industria tenemos relaciones más o menos estrechas pero que se circunscriben al ámbito del trabajo y la tecnología. 
 
 De igual manera que no tienes que tener una amistad con todos tus compañeros de trabajo para colaborar juntos, no es necesario que alguien te caiga bien o que te apetezca irte de cervezas a desbarrar con esta persona para que podáis tener una relación mutuamente satisfactoria y útil. Mientras haya respeto mutuo, intereses compartidos, y una intención de colaborar, la relación habrá sido un éxito. 
+
+Si la relación no es respetuosa o te encuentras con problemas de comportamiento, acoso, o cualquier situación que te resulte incómoda o te ponga en peligro, no dudes en contactarnos para que solucionemos el problema.
 
 ## Recursos
 
