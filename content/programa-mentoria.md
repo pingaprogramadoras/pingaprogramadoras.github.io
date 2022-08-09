@@ -148,4 +148,18 @@ Los datos que se compartan en este formulario se utilizarán únicamente para la
 
 ## Histórico
 
+### 2022
+
 En 2022 se apuntaron 22 neófitas y 13 mentoras al programa.
+
+El reparto geográfico de las neófitas muestra el alcance más allá del área de Sevilla, gracias a la influencia de los eventos online:
+
+![imagen](https://user-images.githubusercontent.com/726590/183611054-ea52bd14-f0c9-4ee0-ad23-453746b02496.png)
+
+Las neófitas mostraron interés en áreas variadas, con un foco repartido entre frontend y backend:
+
+![imagen](https://user-images.githubusercontent.com/726590/183610528-0ef1c1bf-24f3-4969-89e2-cb9d1a0cb360.png)
+
+Las mentoras también mostraron intereses variados, con foco en backend:
+
+![imagen](https://user-images.githubusercontent.com/726590/183610779-aacb144f-37cf-4605-9bc9-077c7830a37e.png)
