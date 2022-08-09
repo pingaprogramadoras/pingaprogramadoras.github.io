@@ -18,7 +18,7 @@ La duración inicial de este programa es de 5 meses y todos los implicados se co
 
 La primera edición de este Programa de Mentoría comenzará el **15 de Septiembre de 2022** y finalizará el **15 de Febrero de 2023**.
 
-Las inscripciones se abrirán del **1 de junio de 2022** hasta el **31 de julio de 2022**.
+Las inscripciones se abrieron del **1 de junio de 2022** hasta el **31 de julio de 2022**.
 
 ### Diferencias entre Mentoría y Patrocinio/Matrocinio
 
@@ -143,3 +143,7 @@ Si quieres participar como **neófita**, rellena el siguiente formulario:
 https://forms.gle/4ZyDZc1Ky3a9ubiq6
 
 Los datos que se compartan en este formulario se utilizarán únicamente para la gestión del programa y se borrarán al finalizar el mismo (a los 5 meses de comenzar).
+
+## Histórico
+
+En 2022 se apuntaron 22 neófitas y 13 mentoras al programa.
