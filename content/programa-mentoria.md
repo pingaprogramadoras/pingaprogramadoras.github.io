@@ -133,12 +133,14 @@ Los siguientes recursos externos pueden servir para ayudar a entender cómo esta
  * [HeForShe, a gender perspective on mentoring](https://www.heforshe.org/sites/default/files/2018-09/HeForShe_Action_Kit_Individuals.pdf)
  
 ## Dónde puedo apuntarme
+
+**INSCRIPCIONES CERRADAS** Síguenos en [Twitter](https://twitter.com/pingmujeres) para enterarte de cuándo será la siguiente ronda.
  
-Si quieres participar como **mentora**, rellena el siguiente formulario:
+~~Si quieres paricipar como **mentora**, rellena el siguiente formulario:~~
 
 https://forms.gle/wxLaMWizxH7YAXPN9
 
-Si quieres participar como **neófita**, rellena el siguiente formulario:
+~~Si quieres participar como **neófita**, rellena el siguiente formulario:~~
 
 https://forms.gle/4ZyDZc1Ky3a9ubiq6
 
