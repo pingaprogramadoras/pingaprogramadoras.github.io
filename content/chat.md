@@ -60,11 +60,13 @@ El espacio **Público** contiene salas que están fuera del espacio seguro. Esta
 
 Puedes tener tantas sesiones abiertas como quieras en la variedad de clientes que quieras. Cualquier cliente compatible con Matrix es usable con nuestra comunidad. 
 
-El cliente recomendado es [Element][4] tanto de escritorio como de móvil, ya que es el cliente más sincronizado con el desarrollo del servidor. Puedes encontrar más información sobre como usarlo en [su ayuda][5].
+¿Estás acostumbrada a usar **Discord**? Puedes usar el cliente [Cinny][6] que tiene la misma interfaz gráfica que Discord pero usando Matrix como backend.
+
+El otro cliente recomendado es [Element][4], tanto de escritorio como de móvil. Puedes encontrar más información sobre como usarlo en [su ayuda][5].
 
 Debido a la alta privacidad y seguridad en Matrix, los clientes web están limitados por lo que no son la mejor opción a la hora de utilizar la comunidad en su máxima eficiencia. Por ejemplo, la búsqueda en el histórico de las salas cifradas sólo está implementada (en el momento de escribir esta guía) en clientes no web para garantizar la seguridad.
 
-### Notificaciones
+#### Notificaciones
 
 Si usas el cliente [Element][4] verás que al entrar en cada sala hay un menú en la parte superior derecha de la ventana.
 
@@ -101,3 +103,4 @@ Una buena práctica es tener instalado un cliente en el móvil con el que podrá
  [3]: #petición-de-acceso
  [4]: https://element.io/get-started
  [5]: https://element.io/help
+ [6]: https://cinny.in/
