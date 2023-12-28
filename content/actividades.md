@@ -8,7 +8,7 @@ menu: main
 
 ¿Quieres saber qué hacemos? ¿Cuales son las actividades que organizamos? ¿Encontrar un taller? ¿Venir a la próxima reunión? 
 
-Tenemos presencia en varias redes sociales donde puedes seguir nuestra actividad. Pero es en <a href="https://www.meetup.com/es-ES/Ping-a-mujeres-programadoras/" target="_blank" rel="noreferrer noopener" aria-label=" (se abre en una nueva pestaña)">Meetup</a> donde publicamos todos nuestros encuentros ¡Únete a nuestra comunidad!
+Tenemos presencia en varias redes sociales como [LinkedIn](https://www.linkedin.com/company/pingaprogramadorasasociaci%C3%B3ndemujerespap/) donde puedes seguir nuestra actividad. En [Meetup](https://www.meetup.com/es-ES/grupo-de-ping-a-programadoras/) publicamos todos nuestros encuentros ¡Únete a nuestra comunidad!
 
 ![](/uploads/2020/01/600_472989345.jpeg)
 
